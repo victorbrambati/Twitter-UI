@@ -36,6 +36,7 @@ const Tweet: React.FC = () => {
             <time>27 de jun</time>
           </Header>
 
+          {/* eslint-disable-next-line jsx-a11y/accessible-emoji */}
           <Description>Extra extra PHP morreu mas passa bem 🤪</Description>
 
           <ImageContent />

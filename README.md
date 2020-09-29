@@ -1,7 +1,5 @@
 <h1 align="center">
-    <img alt="Ui Clone Twitter" src="https://res.cloudinary.com/victorbrambati/image/upload/v1601389697/markdown_k3euj7.png" />
-    <br>
-
+    Twitter UI Clone
 </h1>
 
 <p align="center">
